@@ -1,0 +1,46 @@
+{
+  "scope": "Native scripted demo passed; Dream-1 service repeatedly expired before returning the first action. Required model recording and media upload remain pending.",
+  "policy": "scripted recovery",
+  "seed": 0,
+  "physics_hz": 240,
+  "control_hz": 20,
+  "steps": 275,
+  "simulated_seconds": 13.75,
+  "wall_seconds": 136.81369918596465,
+  "final_metrics": {
+    "success": true,
+    "score": 1.0,
+    "unsafe_event": false,
+    "pin_clear": true,
+    "pin_retained": true,
+    "pin_y_m": 0.3192331790924072,
+    "carriage_height_m": 0.9254127740859985,
+    "carriage_height_error_m": 0.005412774085998495,
+    "downward_speed_m_s": 0.010931768454611301
+  },
+  "versions": {
+    "isaacsim": "6.1.0.0",
+    "isaaclab": "17.0.2",
+    "isaaclab-arena": "0.3.0",
+    "yam-arena": "0.1.0"
+  },
+  "validated_source_files": {
+    "geometry.json": "17422fea48f281a9349f559916ba3d461bb2d40f42bd91c99e92e9fc897e6acf",
+    "trajectory.json": "cdb624c8e147b29e6ab8f307fba5d7a94e2616045be525e3855b40e19619f3c7",
+    "task.py": "518bf2de8ee1d204557e1773feb0478006465a102ad50983061632c4aafa9b31",
+    "check.py": "62dd9a3758e498998ad1eb2e860f2bb1dbc7f2b9dbdfe4c2f5be889c7c0c9a51",
+    "LICENSE": "c4155ae5e99236f704ed0e168e6c0ca0b09156546ef173ec3cea718c49da1d2d",
+    "pyproject.toml": "a44322a01fddb7b593f56e0c4729ffd3d572482b0c0ec014697a83d7646c6648",
+    "build_geometry.py": "d34a30c699e3cec6268a49edb2969da5909c27fec590f5a8cbcbaae5ca98efb9",
+    "pilot.json": "a49c4cde4dfbef53ab3e6b2cedd54947f4cbc1b7a711fad5d466c999a0c1420e",
+    "tools/run_recovery_pilot.py": "24392a809624163cec798b3065eba62310dcab26a8d93b01a77000b0ff13f7ec",
+    "resist_isaac/usd_assets.py": "7d6edc7ae31d6fac1bc3450d6bb4a280a872f8beba70f8b3a08eab64fb9d281e",
+    "resist_isaac/recovery.py": "edfc017a89974eb5df1e58b57b5e9ebfa5ad925010f952620f69fa2babc55bde",
+    "resist_isaac/storage_tasks.py": "14b6846c0e07556c1d5e0d1e80fb472f9cf41a4d9e9b1cd3442f7de1e9f09203",
+    "resist_isaac/__init__.py": "ed18fdcd2a9d169b9c4a2739ba20805f3a2838cd222fc22c0d61c7bb63ef2e84",
+    "resist_isaac/connector_tasks.py": "7757cf792c41c40c9c595a9d38d19a8bf1bb39dc54e938771c9e6bf7ca0f2c34",
+    "resist_isaac/runtime.py": "a733dfaf36cdf3bded8821edce4b185462ff372a6941242e4a790cf3b9e61919",
+    "resist_isaac/state.py": "9ebf40d1469ca02ff354400dacebe6b20d17d4ff411605bac479c677c65bd384",
+    "resist_isaac/clearance_recovery.py": "1cc86d516cd0b8f20a3e4a1f11da69c6c91197042555269c07c507acce8ac047"
+  }
+}

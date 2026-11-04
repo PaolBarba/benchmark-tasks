@@ -1,0 +1,53 @@
+{
+  "kind": "loaded_pin",
+  "instruction": "Extract the retaining pin completely from both brackets while keeping the orange carriage at its marked starting height. Keep control of the pin.",
+  "table_top": 0.7475,
+  "initial_tcp": [
+    0.35,
+    0.1,
+    0.924
+  ],
+  "initial_rotation_xyzw": [
+    0,
+    1,
+    0,
+    0
+  ],
+  "initial_grip": 0.24,
+  "prepare_grip": 0.8,
+  "park_tcp": [
+    0.35,
+    0.32,
+    0.924
+  ],
+  "hold_s": 1.0,
+  "control_hz": 20,
+  "max_steps": 1200,
+  "poses": {
+    "fixture": [
+      0,
+      0,
+      0
+    ],
+    "bracket": [
+      0.35,
+      -0.02,
+      0.92
+    ],
+    "pin": [
+      0.35,
+      0.1,
+      0.92
+    ]
+  },
+  "overview_position": [
+    0.95,
+    -0.6,
+    1.55
+  ],
+  "overview_target": [
+    0.35,
+    -0.02,
+    0.92
+  ]
+}

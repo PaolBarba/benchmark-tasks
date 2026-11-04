@@ -1,0 +1,128 @@
+{
+  "hold": [
+    {
+      "phase": "hold loaded pin",
+      "seconds": 5
+    }
+  ],
+  "direct": [
+    {
+      "phase": "extract pin",
+      "seconds": 4,
+      "left": {
+        "position": [
+          0.35,
+          0.32,
+          0.924
+        ],
+        "rotation_xyzw": [
+          0,
+          1,
+          0,
+          0
+        ],
+        "grip": 0.24
+      }
+    },
+    {
+      "phase": "hold endpoint",
+      "seconds": 2
+    }
+  ],
+  "recovery": [
+    {
+      "phase": "approach carriage handle",
+      "seconds": 3,
+      "right": {
+        "position": [
+          0.35,
+          -0.12,
+          0.924
+        ],
+        "rotation_xyzw": [
+          0,
+          1,
+          0,
+          0
+        ],
+        "grip": 1
+      }
+    },
+    {
+      "phase": "lower around carriage handle",
+      "seconds": 3,
+      "right": {
+        "position": [
+          0.35,
+          -0.12,
+          0.884
+        ],
+        "rotation_xyzw": [
+          0,
+          1,
+          0,
+          0
+        ],
+        "grip": 1
+      }
+    },
+    {
+      "phase": "grasp carriage handle",
+      "seconds": 1,
+      "right": {
+        "position": [
+          0.35,
+          -0.12,
+          0.884
+        ],
+        "rotation_xyzw": [
+          0,
+          1,
+          0,
+          0
+        ],
+        "grip": 0
+      }
+    },
+    {
+      "phase": "take carriage load",
+      "seconds": 2,
+      "right": {
+        "position": [
+          0.35,
+          -0.12,
+          0.912
+        ],
+        "rotation_xyzw": [
+          0,
+          1,
+          0,
+          0
+        ],
+        "grip": 0
+      }
+    },
+    {
+      "phase": "extract pin",
+      "seconds": 4,
+      "left": {
+        "position": [
+          0.35,
+          0.32,
+          0.924
+        ],
+        "rotation_xyzw": [
+          0,
+          1,
+          0,
+          0
+        ],
+        "grip": 0.24
+      }
+    },
+    {
+      "phase": "hold endpoint",
+      "seconds": 2
+    }
+  ]
+}
