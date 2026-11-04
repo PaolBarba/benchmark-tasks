@@ -117,3 +117,16 @@ and no evaluation errors. Initial session-expiration retries were transient; the
 model subsequently returned actions. The scripted demo scored 1.0 in 275 controls.
 The recordings use the same task, geometry, initial state and scorer. Dream-1
 cameras are 320 × 176; the demo cameras are 640 × 360. Both run at 20 Hz.
+
+## Overview camera revision
+
+The overview camera is above and between the two arm bases at
+(-0.05, 0.0, 1.95) m, aimed down toward the pin at (0.35, -0.02, 0.92) m.
+The wrist cameras are unchanged. The recorded Dream-1 result and uploaded media
+above predate this camera revision; they do not evaluate the revised view.
+
+A native Isaac scripted recovery check with this view completed on 2026-11-04:
+score 1.0, 275 controls, no unsafe event, unchanged sources during execution,
+and no reported reset or video errors.
+
+![Native overhead setup view](overview.png)
