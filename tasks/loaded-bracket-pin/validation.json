@@ -1,5 +1,5 @@
 {
-  "scope": "Native scripted demo passed; Dream-1 service repeatedly expired before returning the first action. Required model recording and media upload remain pending.",
+  "scope": "Completed native Dream-1 evaluation and successful scripted demonstration; fixed layout, seed 0.",
   "policy": "scripted recovery",
   "seed": 0,
   "physics_hz": 240,
@@ -42,5 +42,19 @@
     "resist_isaac/runtime.py": "a733dfaf36cdf3bded8821edce4b185462ff372a6941242e4a790cf3b9e61919",
     "resist_isaac/state.py": "9ebf40d1469ca02ff354400dacebe6b20d17d4ff411605bac479c677c65bd384",
     "resist_isaac/clearance_recovery.py": "1cc86d516cd0b8f20a3e4a1f11da69c6c91197042555269c07c507acce8ac047"
+  },
+  "dream": {
+    "score": 0.0,
+    "steps": 1200,
+    "termination_reason": "max_steps",
+    "errored_trials": 0,
+    "model": "dreamlabs/dream-1-beta",
+    "environment_revision": "f00d943d867b",
+    "wall_seconds": 491.01787075202446
+  },
+  "media_sha256": {
+    "dream": "d36c898571394988dc3dfc036639972e379f8a6c8fc94d7fd9616ec34a0922b8",
+    "demo": "5ae2173f96ac0e1eff9bfe3663226226f30fb26d57906967ed4db73bbc932183",
+    "setup": "1a01f1e75ad04252692284353d73b76a3e84a8e1c75a1448c5b203e8a3faf126"
   }
 }

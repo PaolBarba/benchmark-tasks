@@ -110,8 +110,10 @@ and three-camera rendering; first-start caching and machine load affect this.
 Earlier scripts scored 0 and 0.5; they are not the submitted demonstration.
 See `validation.json` for measured results. Media are uploaded separately.
 
-## Submission status
+## Recorded evaluation
 
-Draft for review. Scripted demo: 1.0. Dream-1 was attempted but its service
-repeatedly expired before producing an action; this is not a scored model run.
-The required model recording, media upload and final task.json remain pending.
+Dream-1 completed 1,200 controls, terminating at the action limit with score 0.0
+and no evaluation errors. Initial session-expiration retries were transient; the
+model subsequently returned actions. The scripted demo scored 1.0 in 275 controls.
+The recordings use the same task, geometry, initial state and scorer. Dream-1
+cameras are 320 × 176; the demo cameras are 640 × 360. Both run at 20 Hz.
