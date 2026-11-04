@@ -122,8 +122,11 @@ cameras are 320 × 176; the demo cameras are 640 × 360. Both run at 20 Hz.
 
 The overview camera is above and between the two arm bases at
 (-0.05, 0.0, 1.95) m, aimed down toward the pin at (0.35, -0.02, 0.92) m.
-The wrist cameras are unchanged. The recorded Dream-1 result and uploaded media
-above predate this camera revision; they do not evaluate the revised view.
+The wrist cameras are unchanged. A new Dream-1 evaluation with this overhead
+view completed 1,200 controls with score 0.0 and no evaluation errors.
+[Watch the overhead Dream-1 video](dream-top-cam.mp4) (H.264, 320 × 176,
+20 fps, 60.05 seconds including the initial frame). The task-board media ID
+still references the earlier upload; this recording is included directly in the PR.
 
 A native Isaac scripted recovery check with this view completed on 2026-11-04:
 score 1.0, 275 controls, no unsafe event, unchanged sources during execution,

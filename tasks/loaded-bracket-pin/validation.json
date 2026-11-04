@@ -56,5 +56,15 @@
     "dream": "d36c898571394988dc3dfc036639972e379f8a6c8fc94d7fd9616ec34a0922b8",
     "demo": "5ae2173f96ac0e1eff9bfe3663226226f30fb26d57906967ed4db73bbc932183",
     "setup": "1a01f1e75ad04252692284353d73b76a3e84a8e1c75a1448c5b203e8a3faf126"
+  },
+  "overhead_dream": {
+    "score": 0.0,
+    "steps": 1200,
+    "errored_trials": 0,
+    "environment_revision": "c1803fb891ab",
+    "wall_seconds": 345.1429565559374,
+    "video": "dream-top-cam.mp4",
+    "video_sha256": "9962b39d440284e417d036bff487fb8bab5151fbb11e4176ad685b7c7770ba68",
+    "pilot_sha256": "3af90a1b6015bd4c99e9433395dd504a44b3ac516877ff0a64eba2bfa011e513"
   }
 }
