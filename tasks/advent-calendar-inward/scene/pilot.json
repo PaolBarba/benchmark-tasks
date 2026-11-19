@@ -1,0 +1,5 @@
+{
+  "instruction": "Break through door 18 by pressing it inward. Leave the chocolate intact and untouched inside its compartment. Leave the other doors in place.",
+  "control_hz": 20,
+  "max_steps": 800
+}

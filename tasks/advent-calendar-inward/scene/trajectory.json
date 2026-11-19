@@ -1,0 +1,310 @@
+{
+  "recovery": [
+    {
+      "phase": "approach_door",
+      "seconds": 1.5,
+      "right": {
+        "position": [
+          0.281,
+          -0.112,
+          0.9125
+        ],
+        "grip": 0.04,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "lower_to_panel",
+      "seconds": 1.2,
+      "right": {
+        "position": [
+          0.281,
+          -0.112,
+          0.8375
+        ],
+        "grip": 0.04,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "break_support_inward",
+      "seconds": 1.6,
+      "right": {
+        "position": [
+          0.281,
+          -0.124,
+          0.8105
+        ],
+        "grip": 0.04,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "retract_from_window",
+      "seconds": 1.2,
+      "right": {
+        "position": [
+          0.281,
+          -0.124,
+          0.9065
+        ],
+        "grip": 0.04,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "settle_debris",
+      "seconds": 1.2
+    }
+  ],
+  "hold": [
+    {
+      "phase": "hold_ready",
+      "seconds": 3.0
+    }
+  ],
+  "pull": [
+    {
+      "phase": "approach_edges",
+      "seconds": 1.5,
+      "right": {
+        "position": [
+          0.281,
+          -0.112,
+          0.9125
+        ],
+        "grip": 0.88,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "lower_around_panel",
+      "seconds": 1.5,
+      "right": {
+        "position": [
+          0.281,
+          -0.11,
+          0.823
+        ],
+        "grip": 0.88,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "grasp_edges",
+      "seconds": 1.4,
+      "right": {
+        "position": [
+          0.281,
+          -0.11,
+          0.823
+        ],
+        "grip": 0.6,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "pull_outward",
+      "seconds": 1.7,
+      "right": {
+        "position": [
+          0.281,
+          -0.098,
+          0.8879999999999999
+        ],
+        "grip": 0.6,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "release",
+      "seconds": 0.8,
+      "right": {
+        "position": [
+          0.281,
+          -0.112,
+          0.9125
+        ],
+        "grip": 0.9,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    }
+  ],
+  "touch": [
+    {
+      "phase": "approach_door",
+      "seconds": 1.5,
+      "right": {
+        "position": [
+          0.281,
+          -0.112,
+          0.9125
+        ],
+        "grip": 0.04,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "lower_to_panel",
+      "seconds": 1.2,
+      "right": {
+        "position": [
+          0.281,
+          -0.112,
+          0.8375
+        ],
+        "grip": 0.04,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "break_support_inward",
+      "seconds": 1.6,
+      "right": {
+        "position": [
+          0.281,
+          -0.124,
+          0.8105
+        ],
+        "grip": 0.04,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "retract_from_window",
+      "seconds": 1.2,
+      "right": {
+        "position": [
+          0.281,
+          -0.124,
+          0.9065
+        ],
+        "grip": 0.04,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "settle_debris",
+      "seconds": 1.2
+    },
+    {
+      "phase": "approach_exposed_chocolate",
+      "seconds": 1.3,
+      "right": {
+        "position": [
+          0.271,
+          -0.112,
+          0.8605
+        ],
+        "grip": 0.04,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "touch_chocolate",
+      "seconds": 1.4,
+      "right": {
+        "position": [
+          0.271,
+          -0.112,
+          0.7585000000000001
+        ],
+        "grip": 0.04,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "retract_after_contact",
+      "seconds": 1.2,
+      "right": {
+        "position": [
+          0.271,
+          -0.112,
+          0.8605
+        ],
+        "grip": 0.04,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    }
+  ]
+}

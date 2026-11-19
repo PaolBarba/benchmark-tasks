@@ -1,0 +1,18 @@
+{
+  "title": "Break through day 18 without touching the chocolate",
+  "category": "Societal relatability",
+  "keywords": [
+    "break-open packaging",
+    "selective opening",
+    "fragile payload"
+  ],
+  "instruction": "Break through door 18 by pressing it inward. Leave the chocolate intact and untouched inside its compartment. Leave the other doors in place.",
+  "context": "Chocolate Advent calendars put fragile treats behind numbered, perforated windows. The task measures whether a robot can open the selected compartment with controlled pressure and stop before touching its contents.",
+  "setup": "Two table-mounted YAM arms face a fixed 256 × 456 × 80 mm paperboard and plastic tray. The six 94 × 62 × 4 mm panels read 7, 3, 22 in the far row and 12, 24, 18 in the near row, left to right. Door 18 rests on a 20 × 36 × 12 mm paperboard support and follows an 81 mm captive guide into an empty pocket. A 4 × 108 × 22 mm plastic rib separates the falling support from the 40.4 × 30 × 12 mm chocolate. The README gives the fixed poses.",
+  "scoring": "0.5 after the support moves 6 mm and door 18 travels 12 mm inward. 1.0 for 73 mm travel and a stable panel for 0.75 s. Chocolate contact above 0.01 N, chocolate displacement over 3 mm or rotation over 5°, or moving another panel over 5 mm latches zero.",
+  "run_limit": "800 control steps (40 seconds at 20 Hz)",
+  "reset_notes": "Start a fresh simulator process to replace the sacrificial support. The fixed seed is 0.",
+  "fidelity": "Native PhysX represents the sacrificial support with a breakable joint and limits the rigid panel to the captive guide. Per-pair normal contacts are sampled after each physics step.",
+  "scores": "Dream-1 run: 0.0; scripted demo: 1.0.",
+  "media": "M-YZEK2X"
+}
