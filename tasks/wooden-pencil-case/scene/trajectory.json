@@ -1,0 +1,1468 @@
+{
+  "recovery": [
+    {
+      "phase": "approach_lid_knob",
+      "seconds": 1.6,
+      "right": {
+        "position": [
+          0.31,
+          -0.088,
+          0.9145
+        ],
+        "grip": 0.55,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "lower_onto_knob",
+      "seconds": 1.1,
+      "right": {
+        "position": [
+          0.31,
+          -0.088,
+          0.8295
+        ],
+        "grip": 0.55,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "pinch_knob",
+      "seconds": 0.7,
+      "right": {
+        "position": [
+          0.31,
+          -0.088,
+          0.8295
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_12_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          -0.08158971346807115,
+          0.8424898023207656
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_24_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          -0.07261877531294986,
+          0.8538629727833494
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_36_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          -0.06147925857935223,
+          0.8631224492640095
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_48_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          -0.04865801360186832,
+          0.8698635482086432
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_60_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          -0.03471539030917348,
+          0.8737916512459885
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_72_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          -0.0202607482432879,
+          0.8747350814241837
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_84_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          -0.005925824623558916,
+          0.8726526063173614
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_96_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          0.00766287560123604,
+          0.8676352400805141
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_109_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          0.020854375854098786,
+          0.8591450717069838
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "release_open_lid",
+      "seconds": 0.55,
+      "right": {
+        "position": [
+          0.31,
+          0.020854375854098786,
+          0.8591450717069838
+        ],
+        "grip": 0.6,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "lift_off_knob",
+      "seconds": 0.7,
+      "right": {
+        "position": [
+          0.31,
+          0.020854375854098786,
+          0.8851450717069839
+        ],
+        "grip": 0.6,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "clear_lid",
+      "seconds": 0.85,
+      "right": {
+        "position": [
+          0.27,
+          0.028854375854098786,
+          0.9001450717069839
+        ],
+        "grip": 0.6,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "clear_the_release_approach",
+      "seconds": 1.2,
+      "right": {
+        "position": [
+          0.32,
+          -0.225,
+          0.96
+        ],
+        "grip": 0.6,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "settle_at_open_stop",
+      "seconds": 1.2
+    },
+    {
+      "phase": "approach_release",
+      "seconds": 1.5,
+      "left": {
+        "position": [
+          0.178,
+          -0.045,
+          0.89625
+        ],
+        "grip": 0.52,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "lower_onto_release",
+      "seconds": 1.15,
+      "left": {
+        "position": [
+          0.178,
+          -0.045,
+          0.83625
+        ],
+        "grip": 0.52,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "grasp_release",
+      "seconds": 0.65,
+      "left": {
+        "position": [
+          0.178,
+          -0.045,
+          0.83625
+        ],
+        "grip": 0.179,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "turn_release_20",
+      "seconds": 0.55,
+      "left": {
+        "position": [
+          0.178,
+          -0.045,
+          0.83625
+        ],
+        "grip": 0.179,
+        "rotation_xyzw": [
+          0.8191520442889918,
+          -0.5735764363510462,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "turn_release_38",
+      "seconds": 0.55,
+      "left": {
+        "position": [
+          0.178,
+          -0.045,
+          0.83625
+        ],
+        "grip": 0.179,
+        "rotation_xyzw": [
+          0.8987940462991669,
+          -0.4383711467890774,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "turn_release_52",
+      "seconds": 0.55,
+      "left": {
+        "position": [
+          0.178,
+          -0.045,
+          0.83625
+        ],
+        "grip": 0.179,
+        "rotation_xyzw": [
+          0.9455185755993168,
+          -0.32556815445715664,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "approach_pen_recess",
+      "seconds": 1.25,
+      "right": {
+        "position": [
+          0.31,
+          -0.062,
+          0.8995
+        ],
+        "grip": 0.43,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "lower_into_finger_relief",
+      "seconds": 1.2,
+      "right": {
+        "position": [
+          0.31,
+          -0.062,
+          0.7875
+        ],
+        "grip": 0.43,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "pinch_pen_barrel",
+      "seconds": 0.75,
+      "right": {
+        "position": [
+          0.31,
+          -0.062,
+          0.7875
+        ],
+        "grip": 0.145,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "lift_pen_out_of_case",
+      "seconds": 1.15,
+      "right": {
+        "position": [
+          0.31,
+          -0.062,
+          0.8995
+        ],
+        "grip": 0.145,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "carry_pen_clear_of_case",
+      "seconds": 0.95,
+      "right": {
+        "position": [
+          0.31,
+          -0.157,
+          0.8995
+        ],
+        "grip": 0.145,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "hold_pen_clear",
+      "seconds": 1.5
+    },
+    {
+      "phase": "let_release_spring_return",
+      "seconds": 0.65,
+      "left": {
+        "position": [
+          0.178,
+          -0.045,
+          0.83625
+        ],
+        "grip": 0.68,
+        "rotation_xyzw": [
+          0.9455185755993168,
+          -0.32556815445715664,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "retract_left_hand",
+      "seconds": 0.7,
+      "left": {
+        "position": [
+          0.178,
+          -0.045,
+          0.89625
+        ],
+        "grip": 0.68,
+        "rotation_xyzw": [
+          0.9455185755993168,
+          -0.32556815445715664,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "wait_for_relock",
+      "seconds": 0.6
+    }
+  ],
+  "locked_pull": [
+    {
+      "phase": "approach_lid_knob",
+      "seconds": 1.6,
+      "right": {
+        "position": [
+          0.31,
+          -0.088,
+          0.9145
+        ],
+        "grip": 0.55,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "lower_onto_knob",
+      "seconds": 1.1,
+      "right": {
+        "position": [
+          0.31,
+          -0.088,
+          0.8295
+        ],
+        "grip": 0.55,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "pinch_knob",
+      "seconds": 0.7,
+      "right": {
+        "position": [
+          0.31,
+          -0.088,
+          0.8295
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_12_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          -0.08158971346807115,
+          0.8424898023207656
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_24_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          -0.07261877531294986,
+          0.8538629727833494
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_36_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          -0.06147925857935223,
+          0.8631224492640095
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_48_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          -0.04865801360186832,
+          0.8698635482086432
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_60_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          -0.03471539030917348,
+          0.8737916512459885
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_72_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          -0.0202607482432879,
+          0.8747350814241837
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_84_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          -0.005925824623558916,
+          0.8726526063173614
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_96_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          0.00766287560123604,
+          0.8676352400805141
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_109_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          0.020854375854098786,
+          0.8591450717069838
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "release_open_lid",
+      "seconds": 0.55,
+      "right": {
+        "position": [
+          0.31,
+          0.020854375854098786,
+          0.8591450717069838
+        ],
+        "grip": 0.6,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "lift_off_knob",
+      "seconds": 0.7,
+      "right": {
+        "position": [
+          0.31,
+          0.020854375854098786,
+          0.8851450717069839
+        ],
+        "grip": 0.6,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "clear_lid",
+      "seconds": 0.85,
+      "right": {
+        "position": [
+          0.27,
+          0.028854375854098786,
+          0.9001450717069839
+        ],
+        "grip": 0.6,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "clear_the_release_approach",
+      "seconds": 1.2,
+      "right": {
+        "position": [
+          0.32,
+          -0.225,
+          0.96
+        ],
+        "grip": 0.6,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "settle_at_open_stop",
+      "seconds": 1.2
+    },
+    {
+      "phase": "approach_pen_recess",
+      "seconds": 1.25,
+      "right": {
+        "position": [
+          0.31,
+          -0.062,
+          0.8995
+        ],
+        "grip": 0.43,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "lower_into_finger_relief",
+      "seconds": 1.2,
+      "right": {
+        "position": [
+          0.31,
+          -0.062,
+          0.7875
+        ],
+        "grip": 0.43,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "pinch_pen_barrel",
+      "seconds": 0.75,
+      "right": {
+        "position": [
+          0.31,
+          -0.062,
+          0.7875
+        ],
+        "grip": 0.145,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "lift_pen_out_of_case",
+      "seconds": 1.15,
+      "right": {
+        "position": [
+          0.31,
+          -0.062,
+          0.8995
+        ],
+        "grip": 0.145,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "carry_pen_clear_of_case",
+      "seconds": 0.95,
+      "right": {
+        "position": [
+          0.31,
+          -0.157,
+          0.8995
+        ],
+        "grip": 0.145,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "hold_pen_clear",
+      "seconds": 1.5
+    }
+  ],
+  "early_release": [
+    {
+      "phase": "approach_lid_knob",
+      "seconds": 1.6,
+      "right": {
+        "position": [
+          0.31,
+          -0.088,
+          0.9145
+        ],
+        "grip": 0.55,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "lower_onto_knob",
+      "seconds": 1.1,
+      "right": {
+        "position": [
+          0.31,
+          -0.088,
+          0.8295
+        ],
+        "grip": 0.55,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "pinch_knob",
+      "seconds": 0.7,
+      "right": {
+        "position": [
+          0.31,
+          -0.088,
+          0.8295
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_12_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          -0.08158971346807115,
+          0.8424898023207656
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_24_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          -0.07261877531294986,
+          0.8538629727833494
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_36_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          -0.06147925857935223,
+          0.8631224492640095
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_48_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          -0.04865801360186832,
+          0.8698635482086432
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_60_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          -0.03471539030917348,
+          0.8737916512459885
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_72_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          -0.0202607482432879,
+          0.8747350814241837
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_84_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          -0.005925824623558916,
+          0.8726526063173614
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_96_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          0.00766287560123604,
+          0.8676352400805141
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "open_lid_to_109_degrees",
+      "seconds": 0.45,
+      "right": {
+        "position": [
+          0.31,
+          0.020854375854098786,
+          0.8591450717069838
+        ],
+        "grip": 0.26,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "release_open_lid",
+      "seconds": 0.55,
+      "right": {
+        "position": [
+          0.31,
+          0.020854375854098786,
+          0.8591450717069838
+        ],
+        "grip": 0.6,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "lift_off_knob",
+      "seconds": 0.7,
+      "right": {
+        "position": [
+          0.31,
+          0.020854375854098786,
+          0.8851450717069839
+        ],
+        "grip": 0.6,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "clear_lid",
+      "seconds": 0.85,
+      "right": {
+        "position": [
+          0.27,
+          0.028854375854098786,
+          0.9001450717069839
+        ],
+        "grip": 0.6,
+        "rotation_xyzw": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "clear_the_release_approach",
+      "seconds": 1.2,
+      "right": {
+        "position": [
+          0.32,
+          -0.225,
+          0.96
+        ],
+        "grip": 0.6,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "settle_at_open_stop",
+      "seconds": 1.2
+    },
+    {
+      "phase": "approach_release",
+      "seconds": 1.5,
+      "left": {
+        "position": [
+          0.178,
+          -0.045,
+          0.89625
+        ],
+        "grip": 0.52,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "lower_onto_release",
+      "seconds": 1.15,
+      "left": {
+        "position": [
+          0.178,
+          -0.045,
+          0.83625
+        ],
+        "grip": 0.52,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "grasp_release",
+      "seconds": 0.65,
+      "left": {
+        "position": [
+          0.178,
+          -0.045,
+          0.83625
+        ],
+        "grip": 0.179,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "turn_release_20",
+      "seconds": 0.55,
+      "left": {
+        "position": [
+          0.178,
+          -0.045,
+          0.83625
+        ],
+        "grip": 0.179,
+        "rotation_xyzw": [
+          0.8191520442889918,
+          -0.5735764363510462,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "turn_release_38",
+      "seconds": 0.55,
+      "left": {
+        "position": [
+          0.178,
+          -0.045,
+          0.83625
+        ],
+        "grip": 0.179,
+        "rotation_xyzw": [
+          0.8987940462991669,
+          -0.4383711467890774,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "turn_release_52",
+      "seconds": 0.55,
+      "left": {
+        "position": [
+          0.178,
+          -0.045,
+          0.83625
+        ],
+        "grip": 0.179,
+        "rotation_xyzw": [
+          0.9455185755993168,
+          -0.32556815445715664,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "let_release_spring_return",
+      "seconds": 0.65,
+      "left": {
+        "position": [
+          0.178,
+          -0.045,
+          0.83625
+        ],
+        "grip": 0.68,
+        "rotation_xyzw": [
+          0.9455185755993168,
+          -0.32556815445715664,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "retract_left_hand",
+      "seconds": 0.7,
+      "left": {
+        "position": [
+          0.178,
+          -0.045,
+          0.89625
+        ],
+        "grip": 0.68,
+        "rotation_xyzw": [
+          0.9455185755993168,
+          -0.32556815445715664,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "wait_for_relock",
+      "seconds": 0.6
+    },
+    {
+      "phase": "approach_pen_recess",
+      "seconds": 1.25,
+      "right": {
+        "position": [
+          0.31,
+          -0.062,
+          0.8995
+        ],
+        "grip": 0.43,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "lower_into_finger_relief",
+      "seconds": 1.2,
+      "right": {
+        "position": [
+          0.31,
+          -0.062,
+          0.7875
+        ],
+        "grip": 0.43,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "pinch_pen_barrel",
+      "seconds": 0.75,
+      "right": {
+        "position": [
+          0.31,
+          -0.062,
+          0.7875
+        ],
+        "grip": 0.145,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "lift_pen_out_of_case",
+      "seconds": 1.15,
+      "right": {
+        "position": [
+          0.31,
+          -0.062,
+          0.8995
+        ],
+        "grip": 0.145,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "carry_pen_clear_of_case",
+      "seconds": 0.95,
+      "right": {
+        "position": [
+          0.31,
+          -0.157,
+          0.8995
+        ],
+        "grip": 0.145,
+        "rotation_xyzw": [
+          -0.7071067811865475,
+          0.7071067811865476,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "phase": "hold_pen_clear",
+      "seconds": 1.5
+    }
+  ],
+  "hold": [
+    {
+      "phase": "hold_at_ready",
+      "seconds": 2.0
+    }
+  ]
+}

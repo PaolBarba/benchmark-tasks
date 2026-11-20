@@ -1,0 +1,8 @@
+{
+  "instruction": "Open the wooden pencil case. Turn and hold the orange release knob with one arm while the other lifts out the pen. Hold the pen clear of the case.",
+  "control_hz": 20,
+  "max_steps": 800,
+  "device": "cpu",
+  "cam_width": 640,
+  "cam_height": 360
+}
