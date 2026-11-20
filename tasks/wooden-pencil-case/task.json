@@ -14,5 +14,6 @@
   "run_limit": "800 control steps (40 seconds at 20 Hz)",
   "reset_notes": "Fixed seed 0 with zero object jitter. Reset the pen in both saddles, the lid closed and the release knob at its spring-rest position.",
   "fidelity": "Native PhysX solves a passive hinged lid, a spring-return cam and a freely moving rigid pen. The torsion spring is an angular drive, and the cam tabs and pen interact through collision. The base is held by a visible bench fixture.",
-  "scores": "Dream-1 run: 0.0; scripted demo: 1.0 (seed 0 for both)"
+  "scores": "Dream-1 run: 0.0; scripted demo: 1.0 (seed 0 for both)",
+  "media": "M-W2HWSB"
 }
